@@ -1,3 +1,6 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: [Alvaro Martins Alves - Data Science Portfolio]
+description: [Showcasing my expertise in data science, machine learning, and data analysis through diverse projects. Demonstrating skills in predictive modeling, data visualization, and exploratory data analysis. Solving real-world problems using data-driven insights. Stay tuned for updates.]
