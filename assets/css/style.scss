@@ -2,6 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+body {
+  background-color: #157878;
+}
+
 .container {
   background-color: #157878; /* Cor das faixas laterais */
   margin: 0 auto;
