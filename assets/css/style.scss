@@ -7,8 +7,25 @@ body {
 }
 
 .container {
-  background-color: #157878; /* Cor das faixas laterais */
   margin: 0 auto;
-  max-width: 960px; /* Largura máxima do conteúdo principal */
+  max-width: 960px;
   padding: 0 20px;
+}
+
+.left-bar,
+.right-bar {
+  background-color: #157878; 
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  width: 100px;
+  z-index: -1;
+}
+
+.left-bar {
+  left: 0;
+}
+
+.right-bar {
+  right: 0;
 }
