@@ -1,5 +1,5 @@
-# Alvaro_Portfolio
-Data Science Portfolio: Showcasing my expertise in data science, machine learning, and data analysis through diverse projects. Demonstrating skills in predictive modeling, data visualization, and exploratory data analysis. Solving real-world problems using data-driven insights. Stay tuned for updates.
+# Alvaro Martins Alves Data Science Portfolio
+Showcasing my expertise in data science, machine learning, and data analysis through diverse projects. Demonstrating skills in predictive modeling, data visualization, and exploratory data analysis. Solving real-world problems using data-driven insights. Stay tuned for updates.
 
 ## [Project 1: Winning-Space-Race](https://github.com/AlvaroMAlves/Winning-Space-Race)
 ### Final project of IBM Data Science Course 
