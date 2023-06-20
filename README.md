@@ -14,6 +14,6 @@ A data science project focused on predicting space race winners based on histori
 * Implementation of machine learning algorithms for prediction
 * Model evaluation and performance analysis
 
-![Payload Mass (kg) vs Launch Site](https://github.com/AlvaroMAlves/Alvaro_Portfolio/blob/main/Images/project1_Payload%20Mass%20(kg)%20vs%20Launch%20Site.png)
+![Payload Mass (kg) vs Launch Site](https://raw.githubusercontent.com/AlvaroMAlves/Alvaro_Portfolio/main/Images/project1_Payload%20Mass%20(kg)%20vs%20Launch%20Site.png)
 
-![Success rate of launch Orbits](https://github.com/AlvaroMAlves/Alvaro_Portfolio/blob/main/Images/Success%20rate%20of%20launch%20orbits.png)
+![Success rate of launch Orbits](https://raw.githubusercontent.com/AlvaroMAlves/Alvaro_Portfolio/main/Images/Success%20rate%20of%20launch%20orbits.png)
