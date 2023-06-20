@@ -2,4 +2,30 @@
 ---
 
 @import "{{ site.theme }}";
+.contact-bar {
+  background-color: #157878; /* cor de fundo da barra */
+  color: #fff; /* cor do texto na barra */
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 10px 0;
+  z-index: 9999;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.contact-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.contact-list li {
+  display: inline-block;
+  margin-right: 10px;
+}
 
