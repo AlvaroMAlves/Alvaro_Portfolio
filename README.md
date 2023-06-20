@@ -28,3 +28,9 @@ This data science project revolves around the predictive maintenance of machines
 * Feature engineering and selection
 * Implementation of machine learning algorithms for prediction of Machine failures
 * Model evaluation and performance analysis
+
+![Histograms of quantitative Features](https://raw.githubusercontent.com/AlvaroMAlves/Alvaro_Portfolio/main/Images/project2_features_histogram.png)
+
+![Scatter Plot of Torque vs Rotational Speed](https://raw.githubusercontent.com/AlvaroMAlves/Alvaro_Portfolio/main/Images/project2_scatterplot.png)
+
+
