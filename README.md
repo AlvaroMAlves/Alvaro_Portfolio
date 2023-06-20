@@ -17,3 +17,14 @@ A data science project focused on predicting space race winners based on histori
 ![Payload Mass (kg) vs Launch Site](https://raw.githubusercontent.com/AlvaroMAlves/Alvaro_Portfolio/main/Images/project1_Payload%20Mass%20(kg)%20vs%20Launch%20Site.png)
 
 ![Success rate of launch Orbits](https://raw.githubusercontent.com/AlvaroMAlves/Alvaro_Portfolio/main/Images/Success%20rate%20of%20launch%20orbits.png)
+
+## [Project 2: Predictive_Maintenance_of_Machines](https://github.com/AlvaroMAlves/Pred-Maintenance-Machine)
+#### Goal
+The goal of this project is to develop an accurate predictive model for determining machine failure in a process using machine learning techniques.
+#### Summary
+This data science project revolves around the predictive maintenance of machines using a synthetical dataset. The project utilizes machine learning techniques, specifically logistic regression and random forest models, to develop accurate predictions for machine failure. The performance and effectiveness of these models are assessed thorough evaluation and analysis.
+#### Key Features
+* Exploratory data analysis and visualization
+* Feature engineering and selection
+* Implementation of machine learning algorithms for prediction of Machine failures
+* Model evaluation and performance analysis
