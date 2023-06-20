@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 body {
-  background-color: #157878;
+  background-color: #ffffff; 
 }
 
 .container {
@@ -14,7 +14,7 @@ body {
 
 .left-bar,
 .right-bar {
-  background-color: #157878; 
+  background-color: #157878;
   position: fixed;
   top: 0;
   bottom: 0;
