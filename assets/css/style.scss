@@ -7,25 +7,27 @@ body {
 }
 
 .container {
+  background-color: #157878; /* Cor das faixas laterais */
   margin: 0 auto;
   max-width: 960px;
   padding: 0 20px;
 }
 
-.left-bar,
-.right-bar {
+.container::before,
+.container::after {
+  content: "";
   background-color: #157878; /* Cor das faixas laterais */
   position: fixed;
   top: 0;
   bottom: 0;
-  width: 100px; /* Largura das faixas laterais */
+  width: 50%;
   z-index: -1;
 }
 
-.left-bar {
+.container::before {
   left: 0;
 }
 
-.right-bar {
+.container::after {
   right: 0;
 }
