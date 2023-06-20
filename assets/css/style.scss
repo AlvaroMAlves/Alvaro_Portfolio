@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 body {
-  background-color: #ffffff; 
+  background-color: #ffffff; /* Fundo branco */
 }
 
 .container {
@@ -14,7 +14,7 @@ body {
 
 .left-bar,
 .right-bar {
-  background-color: #157878; 
+  background-color: #157878; /* Faixas laterais verdes */
   position: fixed;
   top: 0;
   bottom: 0;
@@ -31,15 +31,17 @@ body {
 }
 
 .page-header {
-  background-color: #157878; 
+  background-color: #157878; /* Fundo verde do título */
   padding: 10px;
   text-align: center;
-  color: #ffffff; 
+  color: #ffffff; /* Cor do texto no título */
+  margin-left: -10px;
+  margin-right: -10px;
 }
 
 .project-name {
   margin: 0;
-  font-size: 30px;
+  font-size: 36px; /* Ajuste o tamanho da fonte conforme necessário */
   font-weight: bold;
   line-height: 1;
 }
