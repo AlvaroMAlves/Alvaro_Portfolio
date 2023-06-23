@@ -34,4 +34,14 @@ This data science project revolves around the predictive maintenance of machines
 
 ![Scatter Plot of Torque vs Rotational Speed](https://raw.githubusercontent.com/AlvaroMAlves/Alvaro_Portfolio/main/Images/project2_scatterplot.png)
 
+## [Project 3: Client Segmentation (Portuguese)](https://github.com/AlvaroMAlves/segment_cliente)
+#### Goal
+--
+#### Summary
+--
+#### Key Features
+--
 
+![](https://github.com/AlvaroMAlves/Alvaro_Portfolio/blob/main/Images/Clusters.png?raw=true)
+
+![](https://github.com/AlvaroMAlves/Alvaro_Portfolio/blob/main/Images/gr%C3%A1fico%203d%20RFV.JPG?raw=true)
