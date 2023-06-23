@@ -2,7 +2,7 @@
 <!-- ## Data Science Portfolio
 Showcasing my expertise in data science, machine learning, and data analysis through diverse projects. Demonstrating skills in predictive modeling, data visualization, and exploratory data analysis. Solving real-world problems using data-driven insights. Stay tuned for updates. -->
 
-## [Project 1: Winning Space Race](https://github.com/AlvaroMAlves/Pred-Maintenance-Machine/blob/main/Predictive_Maintenance_of_Machines.ipynb)
+## [Project 1: Winning Space Race](https://github.com/AlvaroMAlves/Winning-Space-Race)
 ### Final project of IBM Data Science Course 
 #### Goal 
 To develop an accurate predictive model for determining space race winners using machine learning techniques.
@@ -19,7 +19,7 @@ A data science project focused on predicting space race winners based on histori
 
 ![Success rate of launch Orbits](https://raw.githubusercontent.com/AlvaroMAlves/Alvaro_Portfolio/main/Images/Success%20rate%20of%20launch%20orbits.png)
 
-## [Project 2: Predictive Maintenance of Machines](https://github.com/AlvaroMAlves/Pred-Maintenance-Machine)
+## [Project 2: Predictive Maintenance of Machines](https://github.com/AlvaroMAlves/Pred-Maintenance-Machine/blob/main/Predictive_Maintenance_of_Machines.ipynb)
 #### Goal
 The goal of this project is to develop an accurate predictive model for determining machine failure in a process using machine learning techniques.
 #### Summary
