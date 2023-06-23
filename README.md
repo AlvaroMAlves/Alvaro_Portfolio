@@ -36,11 +36,17 @@ This data science project revolves around the predictive maintenance of machines
 
 ## [Project 3: Client Segmentation (Portuguese)](https://github.com/AlvaroMAlves/segment_cliente)
 #### Goal
---
+The primary objective of this project is to gain a comprehensive understanding of customers through effective client segmentation, enabling the provision of valuable insights for informed marketing strategies and optimized sales performance.
 #### Summary
---
+Two segmentation methods are used: **RFV** (Recency, Frequency, and Monetary Value) analysis and **K-Means clustering**. By employing these methods, the project aims to gain insights into customer behavior and preferences for effective marketing strategies.
 #### Key Features
---
+* Data Collection: Gathering raw data from the Google Merchandising Store to use as the primary dataset for customer segmentation.
+* SQL Query: Constructing a SQL query in SQL Server Management Studio to extract relevant customer data, including converting users, sessions, transaction count, revenue, average revenue per transaction, and last transaction date.
+* RFV Analysis: Implementing the RFV (Recency, Frequency, and Monetary Value) method for customer segmentation. Calculating recency, frequency, and monetary value metrics for each customer to identify distinct segments based on their purchasing behavior.
+* K-Means Clustering: Utilizing the K-Means clustering algorithm, an unsupervised machine learning technique, to group customers into clusters based on similarities in RFV metrics. This allows for a more detailed understanding of customer segments.
+* Comparison and Evaluation: Comparing the results of RFV segmentation and K-Means clustering to assess the effectiveness of each method in identifying customer segments. Evaluating the differences between the two approaches and their implications for marketing and communication strategies.
+* Insights and Recommendations: Drawing meaningful insights from the customer segmentation analysis and using these insights to inform marketing strategies. Recommending tailored approaches for engaging with different customer segments based on their RFV profiles and clustering results.
+* Documentation and Sharing: Providing comprehensive documentation of the project, including the SQL query, analysis techniques, and results. Sharing the project on GitHub to facilitate collaboration and knowledge sharing within the data science community.
 
 ![](https://github.com/AlvaroMAlves/Alvaro_Portfolio/blob/main/Images/Clusters.png?raw=true)
 
